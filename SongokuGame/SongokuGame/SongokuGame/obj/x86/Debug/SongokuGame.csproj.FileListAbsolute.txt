@@ -1,0 +1,15 @@
+D:\Documents\Lap trinh game\SongokuGame\SongokuGame\SongokuGame\bin\x86\Debug\Content\Textures\background.xnb
+D:\Documents\Lap trinh game\SongokuGame\SongokuGame\SongokuGame\bin\x86\Debug\SongokuGame.exe
+D:\Documents\Lap trinh game\SongokuGame\SongokuGame\SongokuGame\bin\x86\Debug\SongokuGame.pdb
+D:\Documents\Lap trinh game\SongokuGame\SongokuGame\SongokuGame\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Lap trinh game\SongokuGame\SongokuGame\SongokuGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Documents\Lap trinh game\SongokuGame\SongokuGame\SongokuGame\obj\x86\Debug\SongokuGame.exe
+D:\Documents\Lap trinh game\SongokuGame\SongokuGame\SongokuGame\obj\x86\Debug\SongokuGame.pdb
+D:\Documents\Lap trinh game\SongokuGame\SongokuGame\SongokuGame\bin\x86\Debug\Content\Fonts\gameFont.xnb
+D:\Documents\Lap trinh game\SongokuGame\SongokuGame\SongokuGame\bin\x86\Debug\Content\Textures\downMenu.xnb
+D:\Documents\Lap trinh game\SongokuGame\SongokuGame\SongokuGame\bin\x86\Debug\Content\Textures\upMenu.xnb
+D:\Documents\Lap trinh game\SongokuGame\SongokuGame\SongokuGame\bin\x86\Debug\Content\Sounds\menuSelect01.xnb
+D:\Documents\Lap trinh game\SongokuGame\SongokuGame\SongokuGame\bin\x86\Debug\Content\Sounds\menuSelect02.xnb
+D:\Documents\Lap trinh game\SongokuGame\SongokuGame\SongokuGame\bin\x86\Debug\Content\Textures\gokukameha.xnb
+D:\Documents\Lap trinh game\SongokuGame\SongokuGame\SongokuGame\bin\x86\Debug\Content\Textures\gohankameha.xnb
+D:\Documents\Lap trinh game\SongokuGame\SongokuGame\SongokuGame\bin\x86\Debug\Content\Textures\goku009.xnb
